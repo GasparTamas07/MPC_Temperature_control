@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env.*
+venv/
+ENV/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+pytest_cache/
+
+# Secret or local configuration
+secrets.yml
+local_settings.py
+settings_local.py
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.out
+*.class
+
+# Ignore backup files
+*~
+*.swp
+*.swo
+*.old
+*.orig
